@@ -8,16 +8,19 @@ A passionate Web3 developer from Türkiye
 - 📫 How to reach me: senturkisa61@gmail.com
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/USERNAME](https://www.linkedin.com/in/isa-%C5%9Fent%C3%BCrk-7279b7267/))
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
+![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-05122A?style=flat&logo=unreal-engine)
+![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
 
 ### GitHub Stats:
 ![Isa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Senturk61&show_icons=true&theme=radical)
