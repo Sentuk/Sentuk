@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Isa Senturk
-A passionate Web3 developer from Türkiye
+An aspiring AI and VR developer passionate about creating immersive and intelligent experiences
 
 - 🔭 I’m currently exploring the intersection of **Artificial Intelligence** and **Virtual Reality**
 - 🌱 I’m learning about **deep learning**, **computer vision**, and how they can enhance **virtual environments**
@@ -8,7 +8,7 @@ A passionate Web3 developer from Türkiye
 - 📫 How to reach me: senturkisa61@gmail.com
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/USERNAME](https://www.linkedin.com/in/isa-%C5%9Fent%C3%BCrk-7279b7267/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isa-şentürk-7279b7267)
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
