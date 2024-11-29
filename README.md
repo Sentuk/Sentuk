@@ -44,6 +44,6 @@ An aspiring AI and VR developer passionate about creating immersive and intellig
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Senturk61&theme=radical)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Senturk61.USERNAME)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Senturk61.Senturk61)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Senturk61&theme=radical)
