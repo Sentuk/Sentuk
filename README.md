@@ -7,8 +7,22 @@ An aspiring AI and VR developer passionate about creating immersive and intellig
 - 🚀 I’m excited about the future of **AI-driven VR technologies** and their potential impact on industries like gaming, healthcare, and education
 - 📫 How to reach me: senturkisa61@gmail.com
 
+  
+### About Me:
+- 🎨 I love exploring **3D modeling** and creating VR-ready environments.
+- 🎮 I'm a fan of **video games** and passionate about game development.
+- ✈️ When I'm not coding, I enjoy **traveling** and experiencing new cultures.
+
+
+### Goals:
+- 🚀 To master **AI-powered virtual environments** and contribute to groundbreaking projects.
+- 🌱 To continue learning and sharing knowledge about **AI** and **VR**.
+- 💡 To develop tools that make **VR more accessible** to everyone.
+
+  
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isa-şentürk-7279b7267)
+
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
@@ -27,3 +41,9 @@ An aspiring AI and VR developer passionate about creating immersive and intellig
 ![Isa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Senturk61&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Senturk61&layout=compact&theme=radical)
 
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Senturk61&theme=radical)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Senturk61.USERNAME)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Senturk61&theme=radical)
