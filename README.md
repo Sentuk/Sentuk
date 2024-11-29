@@ -20,6 +20,6 @@ A passionate Web3 developer from Türkiye
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
 
 ### GitHub Stats:
-![Isa's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+![Isa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Senturk61&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Senturk61&layout=compact&theme=radical)
 --->
