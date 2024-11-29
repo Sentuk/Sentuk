@@ -21,6 +21,7 @@ An aspiring AI and VR developer passionate about creating immersive and intellig
 ![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)
 
 ### GitHub Stats:
 ![Isa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Senturk61&show_icons=true&theme=radical)
