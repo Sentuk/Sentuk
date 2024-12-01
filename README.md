@@ -37,6 +37,25 @@ An aspiring AI and VR developer passionate about creating immersive and intellig
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)
 
+
+- 🚀 [Intern Unity Pack](https://github.com/Senturk61/Intern-Unity-Pack)  
+   A collection of Unity tools and assets developed during an internship, focusing on game mechanics and optimization.
+
+- 🌍 [AR Traveler](https://github.com/Senturk61/AR-Traveler)  
+   Augmented Reality application for exploring virtual environments and enhancing travel experiences.
+
+- 🎮 [Jungle Runner](https://github.com/Senturk61/Jungle-Runner)  
+   An endless runner game built with Unity, featuring procedurally generated levels and smooth gameplay.
+
+- 📊 [Python Data Analyst](https://github.com/Senturk61/Python-Data-Analyst)  
+   Data analysis project using Python, focusing on visualizing and interpreting real-world datasets with Pandas and Matplotlib.
+
+- 🤖 [Jr Programmer Project](https://github.com/Senturk61/Jr-Programmer-Project)  
+   Entry-level programming project that combines C# fundamentals and Unity for interactive applications.
+
+- 🖥️ [Desktop Tutorial](https://github.com/Senturk61/desktop-tutorial)  
+   A comprehensive tutorial for creating desktop applications using modern tools and frameworks.
+
 ### GitHub Stats:
 ![Isa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Senturk61&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Senturk61&layout=compact&theme=radical)
